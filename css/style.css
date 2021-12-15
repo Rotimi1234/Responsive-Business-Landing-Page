@@ -108,7 +108,7 @@ header .container {
 }
 
 .links a {
-  color: var(--lightTwo);
+  color: var(--lightOne);
   margin-left: 4.5rem;
   display: inline-block;
   transition: 0.3s;
@@ -307,7 +307,7 @@ header .container {
   }
 
   .links a {
-    color: #fff;
+    color: var(--darkOne);
     margin-left: 0;
     padding: 2rem 0;
   }
